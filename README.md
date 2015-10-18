@@ -1,3 +1,3 @@
 # gstchainsawsink
 
-GstChainsawSink is a Gstreamer plugin that allows to create HLS based segments/m3u8 format 
+GstChainsawSink is a Gstreamer plugin that allows to create HLS based segments/m3u8 format with many, many options :-)
